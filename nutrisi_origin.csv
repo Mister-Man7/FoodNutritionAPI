@@ -1,0 +1,19 @@
+id,Nama Makanan,Kalori,Lemak,Karbohidrat,Protein,Kategori
+M-001,Ayam Bakar,201,"11,46g",0g,"23,01g","Daging, Ayam"
+M-002,Ayam Geprek,789,"53,97g","22,81g","52,82g","Daging, Ayam"
+M-003,Ayam Goreng,230,12.4g,6g,23.5g,"Daging, Ayam"
+M-004,Ayam Tepung,291,18.82g,"16,32g",15.59g,"Daging, Ayam"
+M-005,Bakso,225,"7,87g","9,71g","27,15g",Serealia
+M-006,Chicken Katsu,297,"18,82g","16,32g","15,59g","Daging, Ayam"
+M-007,Donat,426,"22,9g","50,8g","5,2g",Serealia
+M-008,Gado-gado,318,"17,86g","26,28g","17,22g",Sayur
+M-009,Kopi,29,"0,01g","7,12g","0,19g",Minuman
+M-010,Mie Ayam,421,"18,74g","46,21g","16,7g","Serealia, Ayam"
+M-011,Mie Instan,350,12g,52g,8g,Serealia
+M-012,Nasi Goreng,250,9.28g,31.38g,9.39g,Serealia
+M-013,Pecel Lele,292,17.22g,11.9g,23.06g,Ikan
+M-014,Rendang,468,"26,57g","10,78g","47,23g",Daging
+M-015,Sate,101,"6,67g","2,19g","8,79g","Daging, Ayam"
+M-015,Sop,72,"1,93g","11,98g","2,12g",Sayur
+M-016,Soto,312,"14,92g","19,55g","24,01g",Sayur
+M-017,Telur Balado,142,11.5g,2.44g,7.1g,Ayam
