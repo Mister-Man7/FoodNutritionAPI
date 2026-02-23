@@ -6,6 +6,10 @@ import PIL.Image
 import io
 import pandas as pd
 import os
+import gdown
+
+url = "https://drive.google.com/drive/folders/1nXvQvjzrVDBO8-1GYQPVM5F0poIn_Dth?usp=sharing"
+gdown.download_folder(url, output=".", quiet=True)
 
 # Matiin log kalo run di Windows doang
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
@@ -100,4 +104,5 @@ async def predict_text(nama_makanan: str = Form(...)):
         "prediction": nama_makanan,
         "confidence": 1.0,
         "nutrisi": data_nutrisi
+
     }
